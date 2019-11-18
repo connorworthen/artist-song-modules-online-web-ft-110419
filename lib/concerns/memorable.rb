@@ -13,4 +13,3 @@ module Memorable
     extend Memorable
   end
 end
-
